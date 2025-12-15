@@ -120,7 +120,6 @@ The `data/` folder contains:
 - **Geographic data**: Species occurrence grids, environmental variables, and biome classifications
 - **Model outputs**: SES-FDis results, spatial MPD calculations
 
-**Note:** Raw audio files and the full acoustic feature matrices (`X_500ms.npy`, `metadata_500ms.npz`) are not included due to file size limitations. These files are available upon request or via Zenodo.
 
 ## Requirements
 
