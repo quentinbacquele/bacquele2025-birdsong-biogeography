@@ -152,11 +152,22 @@ The `data/` folder contains:
 
 ## Authors
 
-- **Quentin Bacquelé** - ENES Bioacoustics Research Lab, University of Saint-Etienne, France *(corresponding author: qbacquele@gmail.com)*
-- **Jean-Yves Barnagaud** - CEFE, University of Montpellier, CNRS, France
-- **Cyrille Violle** - CEFE, University of Montpellier, CNRS, France
-- **Frédéric Theunissen** - Department of Neuroscience, University of California, Berkeley, USA
-- **Nicolas Mathevon** - ENES Bioacoustics Research Lab, University of Saint-Etienne, France; Institut Universitaire de France
+**Quentin Bacquelé**<sup>1,2,*</sup>, **Jean-Yves Barnagaud**<sup>2,†</sup>, **Cyrille Violle**<sup>2</sup>, **Frédéric Theunissen**<sup>3</sup>, **Nicolas Mathevon**<sup>1,4,5,†</sup>
+
+<br>
+
+**Affiliations**
+<br>
+<sup>1</sup> ENES Bioacoustics Research Lab, CRNL, CNRS, Inserm, University of Saint-Etienne; Saint-Etienne, France.<br>
+<sup>2</sup> CEFE, Univ Montpellier, CNRS, EPHE-PSL University, IRD; 1919 route de Mende, 34293 Montpellier, France.<br>
+<sup>3</sup> Department of Neuroscience, University of California, Berkeley; Berkeley, CA 94720, USA.<br>
+<sup>4</sup> École Pratique des Hautes Études - PSL, CHArt Lab, University Paris-Sciences-Lettres; Paris, France.<br>
+<sup>5</sup> Institut Universitaire de France; Paris, France.
+
+<br>
+
+<sup>*</sup> **Correspondence:** qbacquele@gmail.com<br>
+<sup>†</sup> These authors contributed equally to this work.
 
 ## Funding
 
